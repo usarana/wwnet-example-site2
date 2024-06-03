@@ -1,0 +1,11 @@
+<div>
+    <div>
+        <h1>welcome to site2!</h1>
+        <h2>epik</h2>
+        <b>epik but bold</b>
+        <p>epik but 16px</p>
+        <button href="test.site/main">go to test1</button>
+        <a href="test.site/page2.whtml">go to test1 page2</a>
+        <input>
+    </div>
+</div>
